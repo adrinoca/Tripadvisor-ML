@@ -1,1 +1,2 @@
 # Tripadvisor-ML
+In this project I am going to make an analysis of reviews made in tripadvisor to different hotels. I will then develop a deeplearning model to predict the ratings based on people's opinions.
